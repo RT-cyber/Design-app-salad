@@ -1,6 +1,8 @@
 # Design-app-salad
 Esse design prioriza clareza e usabilidade, enquanto transmite um sentimento de frescor e qualidade. É um ótimo exemplo de um app voltado para serviços alimentícios ou delivery, com uma experiência centrada no usuário e um visual elegante e intuitivo.
 
+Link protótipo navegável: [Figma](https://www.figma.com/design/DQeHxTED5dtn8W82ppOZjl/Untitled?m=auto&t=J7yrvtpDocU51Kbb-1)
+
 
 ![app salad](https://github.com/user-attachments/assets/b46eff51-fcad-445b-aa67-e31bca447d4c)
 
